@@ -6,7 +6,12 @@ Note: You can check the contributed codes and make required changes in case of a
 
 Feel free to Contribute.
 
-<b>Guidlines To Commit</b>
+<b><h2>Guidlines To Commit</b></h2>
+- Don't Use Your Cp Template shortcuts in the codes you are contributing in this repository.
+- Contribute the algorithms in their relevant folders(Make the necessary folders if required) and not anywhere outside as a file.
+- Make necessary changes in readme file and add the topic name with the link of the file you are commiting.
+
+
 ## Concepts
 
 ---
