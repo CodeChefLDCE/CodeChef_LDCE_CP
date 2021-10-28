@@ -29,5 +29,6 @@ Feel free to Contribute.
   - [Bubble Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Bubble_Sort.cpp)
   - [Insertion Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Insertion_Sort.cpp)
   - [Quick Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Quick_Sort.cpp)
+  - [Selection Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Selection_Sort.cpp)
   
 - Graphs
