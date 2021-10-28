@@ -1,6 +1,4 @@
-<p class="aligncenter">
-    <img src="https://lh3.googleusercontent.com/tz7nHSCh0zpBsFeFD4Lq1_aRC1SVlmid5MSJsE4pjh36Ri_opdar0ltpV69gaTdMgqS8IFo=s85" alt="centered image" width="150px">
-</p>
+<img src="https://lh3.googleusercontent.com/tz7nHSCh0zpBsFeFD4Lq1_aRC1SVlmid5MSJsE4pjh36Ri_opdar0ltpV69gaTdMgqS8IFo=s85" width="60px" style="float:left; padding:.35rem"/>
 
 ### An Open Source Repository of CodeChef LDCE for having all useful CP codes.
 ## Data Structures & Algorithm
