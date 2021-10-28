@@ -6,6 +6,7 @@ Note: You can check the contributed codes and make required changes in case of a
 
 Feel free to Contribute.
 
+<b>Guidlines To Commit</b>
 ## Concepts
 
 ---
