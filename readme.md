@@ -21,4 +21,4 @@ Feel free to Contribute.
   - [Quick Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/blob/main/Sorting/Quick_Sort.cpp)
   
 - Graphs
-  -[Kruskal's algorithm](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/blob/main/Graphs/Kruskal.cpp) 
+  - [Kruskal's algorithm](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/blob/main/Graphs/Kruskal.cpp) 
