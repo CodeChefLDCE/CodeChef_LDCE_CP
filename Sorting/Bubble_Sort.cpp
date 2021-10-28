@@ -1,54 +1,34 @@
-#pragma GCC optimize("Ofast")
-    #pragma GCC target("avx,avx2,fma")
-    #pragma GCC optimization ("unroll-loops")
-    #include <bits/stdc++.h> 
-    using namespace std;
-    #define ll long long 
-    #define all(x) (x).begin(),(x).end()
-    #define vll vector<ll>
-    #define vi vector<int>
-    #define pi pair<int,int>    
-    #define vp vector<pi>
-    #define pb push_back
-    #define mp make_pair
-    #define F first
-    #define S second
-    #define POB pop_back 
-    #define f(i,x,z) for(ll i=x;i<z;i++)
-    #define debug(x) cout<<'DEBUG------> '<<x<<endl
-    #define srt(v) sort(v.begin(), v.end())
-    #define clr(x) memset(x, 0, sizeof(x)) 
-    #define setall(x,a) memset(x, a, sizeof(x))
-    #define INF 1000000000000000003 
-    #define mi map<int,int>
-    #define mod 1000000007
-    const long long MAX_SIZE = 100001; 
-    vector<long long >isprime(MAX_SIZE , true); 
-    vector<long long >prime; 
-    vector<long long >SPF(MAX_SIZE); 
-    ll a[1000000];
+#include <bits/stdc++.h> 
+using namespace std;
+int a[1000000];
 int main()
-    {
-        // freopen("plants.in", "r", stdin);    
-        // freopen('output.txt', 'w', stdout);
-        ios::sync_with_stdio(0);// Input and output clearance
-        cin.tie(0)
-        Bubble Sort:
-
-        ll n;
-        cin>>n;
-        ll a[n],b[n];
-        f(i,0,n)
-        {
-            cin>>a[i];
-        }
-        f(i,0,n)
-        {
-            f(j,i+1,n)
-            {
-                if(a[i]>a[j])
-                {
-                    ll temp=a[i];
-                    a[i]=a[j];
-                    a[j]=temp;
+{
+	// freopen("plants.in", "r", stdin);    
+	// freopen('output.txt', 'w', stdout);
+	ios::sync_with_stdio(0);// Input and output clearance
+	cin.tie(0);
+	int n;
+	cin>>n;
+	int a[n],b[n];
+	for(int i=0;i<n;i++)
+	{
+		cin>>a[i];
+	}
+	for(int i=0;i<n;i++)
+	{
+		for(int j=i+1;j<n;j++)
+		{
+			if(a[i]>a[j])
+			{
+				int temp=a[i];
+				a[i]=a[j];
+				a[j]=temp;
+			}
+		}
+	}
+	for(int i=0;i<n;i++)
+	{
+		cout<<a[i]<<" ";
+	}
 }
+
