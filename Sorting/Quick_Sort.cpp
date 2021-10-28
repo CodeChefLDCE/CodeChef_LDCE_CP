@@ -1,7 +1,6 @@
 #include <iostream>
 #include <bits/stdc++.h> 
 using namespace std;
-
 #define ll long long 
 
 void swap(int arr[],int i,int j)
