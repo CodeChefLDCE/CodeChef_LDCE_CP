@@ -6,3 +6,11 @@ Note: You can check the contributed codes and make required changes in case of a
 
 Feel free to Contribute.
 
+## Concepts
+
+---
+-- Sorting
+  - [Bubble Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Bubble_Sort.cpp)
+  - [Insertion Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Insertion_Sort.cpp)
+  - [Quick Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Quick_Sort.cpp)
+-- Graphs
