@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/tz7nHSCh0zpBsFeFD4Lq1_aRC1SVlmid5MSJsE4pjh36Ri_opdar0ltpV69gaTdMgqS8IFo=s85" width="160px" style="float:left;   padding-left: 50px;
+<img src="https://lh3.googleusercontent.com/tz7nHSCh0zpBsFeFD4Lq1_aRC1SVlmid5MSJsE4pjh36Ri_opdar0ltpV69gaTdMgqS8IFo=s85" width="160px" style="float:left;   padding-left:250px;
 "/>
 
 ### An Open Source Repository of CodeChef LDCE for having all useful CP codes.
