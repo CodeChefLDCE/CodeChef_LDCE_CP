@@ -16,8 +16,9 @@ Feel free to Contribute.
 
 ---
 - Sorting
-  - [Bubble Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Bubble_Sort.cpp)
-  - [Insertion Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Insertion_Sort.cpp)
-  - [Quick Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Quick_Sort.cpp)
+  - [Bubble Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/blob/main/Sorting/Bubble_Sort.cpp)
+  - [Insertion Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/blob/main/Sorting/Insertion_Sort.cpp)
+  - [Quick Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/blob/main/Sorting/Quick_Sort.cpp)
   
 - Graphs
+  -[Kruskal's algorithm](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/blob/main/Graphs/Kruskal.cpp) 
