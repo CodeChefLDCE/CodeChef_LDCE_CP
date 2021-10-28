@@ -1,6 +1,3 @@
-<img src="https://lh3.googleusercontent.com/tz7nHSCh0zpBsFeFD4Lq1_aRC1SVlmid5MSJsE4pjh36Ri_opdar0ltpV69gaTdMgqS8IFo=s85" width="160px" style="float:left;   padding-left:250px;
-"/>
-
 ### An Open Source Repository of CodeChef LDCE for having all useful CP codes.
 ## Data Structures & Algorithm
 Contribute only verified codes which are useful for Competitive Programming and DSA NO Submission for any CodeChef,Codeforces or LeetCode Problem Would be Merged
