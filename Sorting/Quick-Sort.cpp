@@ -3,23 +3,7 @@
 using namespace std;
 
 #define ll long long 
-#define all(x) (x).begin(),(x).end()
-#define vll vector<ll>
-#define vl vector<ll>
-#define pi pair<ll,ll>
-#define vp vector<pi>
-#define pb push_back
-#define mp make_pair
-#define fi first
-#define se second
-#define rall(x) x.rbegin(), x.rend()
-#define watch(x) cout << (#x) << ' is ' << (x) << endl
-#define f(i,x,z) for(ll i=x;i<z;i++)
-#define deb(x) cout<<'DEBUG------> '<<x<<endl
-#define srt(v) sort(v.begin(), v.end())
-#define clr(x) memset(x, 0, sizeof(x)) 
-#define mll map<ll,ll>
-#define mod 1000000007
+
 void swap(int arr[],int i,int j)
 {
     int temp=arr[i];
@@ -58,7 +42,7 @@ int main()
     ll t,n;
     int arr[5]={5,4,3,2,1};
     QuickSort(arr,0,4);
-    f(i,0,5)
+    for(ll i=0;i<5;i++)
     {
         cout<<arr[i]<<" ";
     }
