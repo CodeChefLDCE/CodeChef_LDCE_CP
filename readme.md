@@ -1,13 +1,3 @@
-<style>
-.center {
-  margin: auto;
-  width: 60%;
-  border: 3px solid #73AD21;
-  padding: 10px;
-}
-  </style>
-<img src="https://lh3.googleusercontent.com/tz7nHSCh0zpBsFeFD4Lq1_aRC1SVlmid5MSJsE4pjh36Ri_opdar0ltpV69gaTdMgqS8IFo=s85" class=center>
-
 ### An Open Source Repository of CodeChef LDCE for having all useful CP codes.
 ## Data Structures & Algorithm
 Contribute only verified codes which are useful for Competitive Programming and DSA NO Submission for any CodeChef,Codeforces or LeetCode Problem Would be Merged
@@ -26,9 +16,12 @@ Feel free to Contribute.
 
 ---
 - Sorting
+
   - [Bubble Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Bubble_Sort.cpp)
   - [Insertion Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Insertion_Sort.cpp)
   - [Quick Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Quick_Sort.cpp)
   - [Selection Sort](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/master/Sorting/Selection_Sort.cpp)
+
   
 - Graphs
+  - [Kruskal's algorithm](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/blob/main/Graphs/Kruskal.cpp) 
