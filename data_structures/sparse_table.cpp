@@ -43,7 +43,7 @@ public:
     // take max value of constraint over n
     // @param - (max_size)
     SparseTable(const int maxn) {
-        n=maxn,lg=log2(n+5);
+        n=maxn,lg=__lg(n+5);
         sptable=vector<vector<T>> (n+5,vector<T> (lg+5));
         logs=vector<int> (n+5);
         logs[0]=-1; // invalid
@@ -53,7 +53,7 @@ public:
     // first parameter is size of array and second is the array
     // @param - (size_of_array,array)
     SparseTable(const int sz,const vector<T>& arr) {
-        n=sz,lg=log2(n+5);
+        n=sz,lg=__lg(n+5);
         sptable=vector<vector<T>> (n+5,vector<T> (lg+5));
         logs=vector<int> (n+5);
         logs[0]=-1; // invalid
@@ -61,7 +61,7 @@ public:
         build(arr);
     }
     SparseTable(const int sz,const T arr[]) {
-        n=sz,lg=log2(n+5);
+        n=sz,lg=__lg(n+5);
         sptable=vector<vector<T>> (n+5,vector<T> (lg+5));
         logs=vector<int> (n+5);
         logs[0]=-1; // invalid
@@ -71,11 +71,11 @@ public:
     // in case of global sparse table  
     // @param - (size_of_array,array)
     void rebuild(const int sz,const vector<T>& arr) {
-        n=sz,lg=log2(n+5);
+        n=sz,lg=__lg(n+5);
         build(arr);
     }
     void rebuild(const int sz,const T arr[]) {
-        n=sz,lg=log2(n+5);
+        n=sz,lg=__lg(n+5);
         build(arr);
     }
     // here the query should be of type [l,r] (both inclusive)
