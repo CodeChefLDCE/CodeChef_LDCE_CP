@@ -27,3 +27,4 @@ Feel free to Contribute.
 
 - DS
   - [Fenwick Tree](https://github.com/CodeChefLDCE/CodeChef_LDCE_CP/blob/main/data_structures/fenwick_tree.cpp)
+  - [Sparse Table](https://github.com/jaypalmudaliyar24/CodeChef_LDCE_CP/blob/main/data_structures/fenwick_tree.cpp)
